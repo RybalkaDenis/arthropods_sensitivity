@@ -1,0 +1,51 @@
+Order,Family,Species,"LC50 (mean ± SE), mg/m2","Mean body mass (dry weight), mg","Body length, mm"
+Isopoda,Porcellionidae,"Porcellio laevis Latreille, 1804",1.96 ± 0.10,29,10–20
+Geophilomorpha,Geophilidae,"Geophilus carpophagus Leach, 1815",42.5 ± 4.3,12,15–60
+Lithobiomorpha,Lithobiidae,"Lithobius forficatus (Linnaeus, 1758)",3.16 ± 0.14,21,18–30
+Julida,Julidae,"Cylindroiulus truncorum (Silvestri, 1896)",17.1 ± 1.4,42,15–20
+,Julidae,Megaphyllum sp.,2.24 ± 0.12,47,17–22
+Dermaptera,Forficulidae,"Forficula auricularia Linnaeus, 1758",180.1 ± 22.2,29,12–14
+Dermaptera,Spongiphoridae,"Labia minor (Linnaeus, 1758)",4.92 ± 0.35,3,4–7
+Orthoptera,Acrididae,Chortippus sp. 1,4.71 ± 0.37,72,20–28
+Orthoptera,Acrididae,Chortippus sp. 2,3.31 ± 0.22,63,18–25
+Coleoptera,Carabidae,"Carabus convexus Fabricius, 1775",0.594 ± 0.037,120,15–18
+,Carabidae,"C. granulatus Linnaeus, 1758",0.998 ± 0.053,106,17–23
+,Carabidae,"C. hortensis Linnaeus, 1758",0.881 ± 0.051,237,23–30
+,Carabidae,"Pterostichus niger (Schaller, 1783)",279.1 ± 33.8,74,15–21
+,Carabidae,"P. melanarius (Illiger, 1798)",417.5 ± 52.4,71,12–18
+,Carabidae,"Poecilus versicolor (Sturm, 1824)",14.8 ± 1.3,15,8–11.5
+,Carabidae,"Calathus fuscipes (Goeze, 1777)",117.1 ± 13.7,25,10–14
+,Carabidae,"Nebria brevicollis (Fabricius, 1792)",37.3 ± 4.2,29,10–14
+,Carabidae,"Ophonus rufibarbis (Fabricius, 1792)",44.4 ± 5.3,11,7.5–10.0
+,Carabidae,"Harpalus latus (Linnaeus, 1758)",21.2 ± 1.9,12,8.0–10.5
+,Carabidae,"H. rufipes (DeGeer, 1774)",56.0 ± 5.6,47,11–16
+,Carabidae,"Notiophilus palustris (Duftschmid, 1812)",8.34 ± 0.62,5,4.5–6
+,Carabidae,"Amara nitida Sturm, 1825",1.69 ± 0.11,6,6.5–7.5
+Coleoptera,Staphylinidae,"Tachyporus hypnorum (Fabricius, 1775)",0.243 ± 0.022,0.5,"3,1–4"
+,Staphylinidae,"Tachinus signatus Gravenhorst, 1802",0.278 ± 0.023,0.8,5–6
+,Staphylinidae,"Drusilla canaliculata (Fabricius, 1787)",0.192 ± 0.018,0.6,4–4.8
+,Staphylinidae,"Xantholinus tricolor (Fabricius, 1787)",0.00591 ± 0.00073,8,9–12
+,Staphylinidae,"X. longiventris Heer, 1839",0.0431 ± 0.0039,5,7.0–9.5
+,Staphylinidae,"Philonthus coprophilus Jarrige, 1949",0.0312 ± 0.0031,7,6.6–8.5
+,Staphylinidae,"Ph. decorus (Gravenhorst, 1802)",0.0929 ± 0.0096,12,11–13
+,Staphylinidae,"Ph. nitidus (Fabricius, 1787)",0.0492 ± 0.0043,15,10.5–16.0
+,Staphylinidae,"Ph. carbonarius (Gravenhorst, 1802)",0.0116 ± 0.0013,1,"4,3–4,9"
+,Staphylinidae,"Ph. cruentatus (Gmelin, 1790)",0.0227 ± 0.0023,4,7.0–7.5
+,Staphylinidae,"Ontholestes murinus (Linnaeus, 1758)",0.273 ± 0.022,16,11.5–14.0
+Coleoptera,Silphidae,"Silpha carinata Herbst, 1783",0.357 ± 0.025,74,12–23
+,Silphidae,"Phosphuga atrata (Linnaeus, 1758)",0.360 ± 0.027,42,10–16
+Coleoptera,Histeridae,"Hister fenestus Erichson, 1834",2.93 ± 0.18,6,4–6
+Coleoptera,Aphodiidae,"Aphodius foetens (Fabricius, 1787)",1.248 ± 0.067,9,6.0–8.5
+,Aphodiidae,"Teuchestes fossor (Linnaeus, 1758)",2.21 ± 0.11,41,8–13
+Coleoptera,Cetoniidae,"Oxythyrea funesta (Poda, 1761)",55.8 ± 5.5,45,8–12
+Coleoptera,Cantharidae,"Podistra schoenherri (Dejean, 1837)",1.269 ± 0.061,9,6.5–10
+Hemiptera,Pentatomidae,"Graphosoma italicum (Muller, 1766)",3.00 ± 0.17,45,8–12
+,Miridae,"Lygus pratensis (Linnaeus, 1758)",1.480 ± 0.093,2,5.5–7.0
+,Coreidae,"Coreus marginatus (Linnaeus, 1758)",1.742 ± 0.097,23,13–15
+,Pyrrhocoridae,"Pyrrhocoris apterus (Linnaeus, 1758)",0.0627 ± 0.0048,32,9–11
+,Lygaeidae,"Scolopostethus pilosus Reuter,1874",1.157 ± 0.061,0.6,3.5–4.5
+,Lygaeidae,"Rhyparochromus phoeniceus (Rossi, 1794)",1.257 ± 0.068,4,7.5–9.0
+Hymenoptera,Formicidae,"Myrmica ruginodis Nylander, 1846",2.41 ± 0.13,0.7,3.0–4.5
+,Formicidae,"Lasius flavus (Fabricius, 1782)",4.23 ± 0.32,0.3,2.5-4.0
+,Formicidae,"L. fuliginosus (Latreille, 1798)",1.152 ± 0.062,0.5,3.5–5.5
+,Formicidae,"L. niger (Linnaeus, 1758)",18.3 ± 1.9,0.4,3.0–4.5
